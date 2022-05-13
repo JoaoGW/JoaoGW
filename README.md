@@ -25,7 +25,7 @@
 - 📖 I’m currently studying Computer Science at PUC-SP, São Paulo, Brazil
 - 📫 Reache me on my e-mail cpsenha@gmail.com
 - 🌎 I speak Portuguese and English but I'm learning spanish, french and italian!
-- I'm Brazilian and also Portuguese
+- 🇧🇷🇵🇹 I'm Brazilian and also Portuguese
 
 ====PT====
 - 😃👋 Olá, meu nome é João Pedro do Carmo Ribeiro
@@ -34,7 +34,7 @@
 - 📖 Atualmente curso Ciência da Computação na PUC-SP, São Paulo, Brasil
 - 📫 Você pode me contatar também pelo meu e-mail cpsenha@gmail.com
 - 🌎 Eu falo Português e Inglês mas estou aprendendo espanhol, francês e italiano
-- Eu sou brasileiro e também sou português
+- 🇧🇵🇹🇷 Eu sou brasileiro e também sou português
   
  ##
 
