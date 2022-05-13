@@ -35,7 +35,7 @@
 - 📖 Atualmente curso Ciência da Computação na PUC-SP, São Paulo, Brasil
 - 📫 Você pode me contatar também pelo meu e-mail cpsenha@gmail.com
 - 🌎 Eu falo Português e Inglês mas estou aprendendo espanhol, francês e italiano
-- 🇧🇵🇹🇷 Eu sou brasileiro e também sou português
+- 🇧🇷🇵🇹 Eu sou brasileiro e também sou português
   
  ##
 
