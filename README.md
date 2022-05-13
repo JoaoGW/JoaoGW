@@ -20,7 +20,7 @@
   
   ====EN====
 - 😃👋 Hi, I’m João Pedro do Carmo Ribeiro
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in software engineering and general development
 - 🌱 I’m currently learning and improving skills on HTML, CSS and C
 - 📖 I’m currently studying Computer Science at PUC-SP, São Paulo, Brazil
 - 📫 Reache me on my e-mail cpsenha@gmail.com
@@ -29,7 +29,7 @@
 
 ====PT====
 - 😃👋 Olá, meu nome é João Pedro do Carmo Ribeiro
-- 👀 Estou interessado em Engenharia de Software
+- 👀 Estou interessado em Engenharia de Software e desenvolvimento de programas em geral
 - 🌱 Atualmente estou aprendendo e desenvolvendo habilidades em HTML, CSS and C
 - 📖 Atualmente curso Ciência da Computação na PUC-SP, São Paulo, Brasil
 - 📫 Você pode me contatar também pelo meu e-mail cpsenha@gmail.com
