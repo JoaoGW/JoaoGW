@@ -11,6 +11,7 @@
   <img align="center" alt="GW-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="GW-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="GW-C" height="30" width="30" src="https://www.clipartmax.com/png/full/240-2409409_c-programming-icon-c-programming-language-icon.png">
+  <img align="center" alt="GW-Kotlin" height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png">
   <img align="right" alt="thinkaboutit-pic" height="150" src="https://miro.medium.com/max/1224/0*h5VbrXPSfo_lUSDj.png">
 </div>
   
