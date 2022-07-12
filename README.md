@@ -31,7 +31,7 @@
 ====PT====
 - 😃👋 Olá, meu nome é João Pedro do Carmo Ribeiro
 - 👀 Estou interessado em Engenharia de Software e desenvolvimento de programas em geral
-- 🌱 Atualmente estou aprendendo e desenvolvendo habilidades em HTML, CSS, Kotlin e C
+- 🌱 Atualmente estou aprendendo e desenvolvendo habilidades em HTML, CSS, Javascript e C
 - 📖 Atualmente curso Ciência da Computação na PUC-SP, São Paulo, Brasil
 - 📫 Você pode me contatar também pelo meu e-mail cpsenha@gmail.com
 - 🌎 Eu falo Português e Inglês mas estou aprendendo espanhol, francês e italiano
