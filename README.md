@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning and improving skills on HTML, CSS, Javascript, Java and C
 - 📖 I’m currently studying Computer Science at PUC-SP, São Paulo, Brazil
 - 📫 Reache me on my e-mail cpsenha@gmail.com
-- 🌎 I speak Portuguese and English but I'm learning spanish, french and italian!
+- 🌎 I speak Portuguese, English and French but I'm learning spanish, japanese and italian!
 - 🇧🇷🇵🇹 I'm Brazilian and also Portuguese
 
 ====PT====
@@ -34,14 +34,13 @@
 - 🌱 Atualmente estou aprendendo e desenvolvendo habilidades em HTML, CSS, Javascript, Java e C
 - 📖 Atualmente curso Ciência da Computação na PUC-SP, São Paulo, Brasil
 - 📫 Você pode me contatar também pelo meu e-mail cpsenha@gmail.com
-- 🌎 Eu falo Português e Inglês mas estou aprendendo espanhol, francês e italiano
+- 🌎 Eu falo Português, Inglês e Francês mas estou aprendendo espanhol, japonês e italiano
 - 🇧🇷🇵🇹 Eu sou brasileiro e também sou português
   
  ##
 
 <div>
   <a href="https://www.instagram.com/joaopedcr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/joaogwbr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:cpsenha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-do-carmo-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
