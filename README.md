@@ -8,6 +8,9 @@
   <img align="center" alt="GW-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="GW-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="GW-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="GW-Typescript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg">
+  <img align="center" alt="GW-React" height="30" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg">
+  <img align="center" alt="GW-VueJS" height="30" width="40" src="https://icongr.am/devicon/vuejs-original-wordmark.svg">
   <img align="center" alt="GW-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="GW-Csharp" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg">
   <img align="center" alt="GW-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg">
