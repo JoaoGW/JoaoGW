@@ -28,7 +28,7 @@
 - 🌱 I’m currently learning and improving skills on HTML, CSS, Javascript, Java and C
 - 📖 I’m currently studying Computer Science at PUC-SP, São Paulo, Brazil
 - 📫 Reache me on my e-mail cpsenha@gmail.com
-- 🌎 I speak Portuguese, English and French but I'm learning spanish, japanese and italian!
+- 🌎 I speak Portuguese, English, Spanish, Japanese and French but I'm learning Italian and Esperanto!
 - 🇧🇷🇵🇹 I'm Brazilian and also Portuguese
 
 ====PT====
@@ -37,7 +37,7 @@
 - 🌱 Atualmente estou aprendendo e desenvolvendo habilidades em HTML, CSS, Javascript, Java e C
 - 📖 Atualmente curso Ciência da Computação na PUC-SP, São Paulo, Brasil
 - 📫 Você pode me contatar também pelo meu e-mail cpsenha@gmail.com
-- 🌎 Eu falo Português, Inglês e Francês mas estou aprendendo espanhol, japonês e italiano
+- 🌎 Eu falo Português, Inglês, Espanhol, Japonês e Francês mas estou aprendendo Italiano e Esperanto!
 - 🇧🇷🇵🇹 Eu sou brasileiro e também sou português
   
  ##
