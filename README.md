@@ -40,26 +40,26 @@
   A little about me/ Um pouco sobre mim: 
   
   ====EN====
-- 😃👋 Hi, I’m João Pedro do Carmo Ribeiro
-- 👀 I’m interested in software engineering and general development
-- 🌱 I’m currently learning and improving skills on HTML, CSS, Javascript, Java and C
+- 😃👋 Hello! My name is João Pedro do Carmo Ribeiro
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning and improving skills on NextJS and Java
 - 📖 I’m currently studying Computer Science at PUC-SP, São Paulo, Brazil
 - 📫 Reache me on my e-mail cpsenha@gmail.com
-- 🌎 I speak Portuguese, English, Spanish, Japanese and French but I'm also learning Italian and Esperanto!
-- 🇧🇷🇵🇹 I'm Brazilian and also Portuguese
+- 🌎 I speak Portuguese, English, Spanish, Japanese and French but I'm also learning Italian!
+- 🇧🇷🇵🇹 I'm Brazilian and also Portuguese (dual citizenship)
 
 ====PT====
 - 😃👋 Olá, meu nome é João Pedro do Carmo Ribeiro
-- 👀 Estou interessado em Engenharia de Software e desenvolvimento de programas em geral
-- 🌱 Atualmente estou aprendendo e desenvolvendo habilidades em HTML, CSS, Javascript, Java e C
+- 👀 Estou interessado em Engenharia de Software
+- 🌱 Atualmente estou aprendendo e desenvolvendo habilidades em NextJS e Java
 - 📖 Atualmente curso Ciência da Computação na PUC-SP, São Paulo, Brasil
-- 📫 Você pode me contatar também pelo meu e-mail cpsenha@gmail.com
-- 🌎 Eu falo Português, Inglês, Espanhol, Japonês e Francês mas estou aprendendo também Italiano e Esperanto!
-- 🇧🇷🇵🇹 Eu sou brasileiro e também sou português
+- 📫 Você pode me contactar também pelo meu e-mail cpsenha@gmail.com
+- 🌎 Eu falo Português, Inglês, Espanhol, Japonês e Francês mas estou aprendendo também Italiano!
+- 🇧🇷🇵🇹 Eu sou brasileiro e também sou português (dupla cidadania)
   
  ##
  
-<p>Observação: Eu utilizo versionamento com a ferramenta git e por isso não possuo muitos commits registrados aqui, pois os mesmos não são contabilizados nas estatísticas.</p>
+<p>Observação: Eu utilizo versionamento com a ferramenta git e por isso não possuo muitos commits registrados aqui, pois os mesmos infelizmente não são contabilizados nas estatísticas.</p>
 
  ##
 
@@ -67,6 +67,4 @@
   <a href="https://www.instagram.com/joaopedcr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cpsenha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-do-carmo-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![snake animation](https://github.com/JoaoGW/blob/output/github-contribution-grid-snake2.svg)  
-  </div>
+</div>
