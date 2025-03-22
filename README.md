@@ -42,7 +42,7 @@
   ====EN====
 - 😃👋 Hello! My name is João Pedro do Carmo Ribeiro
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning and improving skills on NextJS and Java
+- 🌱 I’m currently learning and improving skills on NextJS, React Native and Java
 - 📖 I’m currently studying Computer Science at PUC-SP, São Paulo, Brazil
 - 📫 Reache me on my e-mail cpsenha@gmail.com
 - 🌎 I speak Portuguese, English, Spanish, Japanese and French but I'm also learning Italian!
@@ -51,7 +51,7 @@
 ====PT====
 - 😃👋 Olá, meu nome é João Pedro do Carmo Ribeiro
 - 👀 Estou interessado em Engenharia de Software
-- 🌱 Atualmente estou aprendendo e desenvolvendo habilidades em NextJS e Java
+- 🌱 Atualmente estou aprendendo e desenvolvendo habilidades em NextJS, React Native e Java
 - 📖 Atualmente curso Ciência da Computação na PUC-SP, São Paulo, Brasil
 - 📫 Você pode me contactar também pelo meu e-mail cpsenha@gmail.com
 - 🌎 Eu falo Português, Inglês, Espanhol, Japonês e Francês mas estou aprendendo também Italiano!
