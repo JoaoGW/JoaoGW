@@ -8,22 +8,22 @@
 ### 🇺🇸 EN
 
 - 👋 Hi! I'm João Pedro Ribeiro  
-- 💻 Software Engineer passionate about building high-impact experiences  
-- 🌱 Currently diving deeper into **Next.js**, **React Native**, and **Java**  
-- 🎓 CS (Computer Science) undergraduate at **PUC-SP**, São Paulo, Brazil  
-- 🌐 I speak **Portuguese**, **English**, **Spanish**, **Japanese**, and **French**, and I'm currently learning **Italian**  
+- Software Engineer passionate about building high-impact experiences  
+- Currently diving deeper into **Next.js**, **React Native**, and **Java**  
+- CS (Computer Science) undergraduate at **PUC-SP**, São Paulo, Brazil  
+- I speak **Portuguese**, **English**, **Spanish**, **Japanese**, and **French**, and I'm currently learning **Italian**  
 - 🇧🇷🇵🇹 I'm Brazilian and also Portuguese (dual citizenship)  
-- 📫 Reach me at **cpsenha@gmail.com**
+- Reach me at **cpsenha@gmail.com**
 
 ### 🇧🇷 PT
 
 - 👋 Olá! Sou João Pedro Ribeiro  
-- 💻 Engenheiro de Software apaixonado por criar experiências de impacto  
-- 🌱 Atualmente estudando **Next.js**, **React Native** e **Java**  
-- 🎓 Graduando em Ciência da Computação pela **PUC-SP**, São Paulo, Brasil
-- 🌐 Falo **Português**, **Inglês**, **Espanhol**, **Japonês** e **Francês**, e estou atualmente aprendendo **Italiano**  
+- Engenheiro de Software apaixonado por criar experiências de impacto  
+- Atualmente estudando **Next.js**, **React Native** e **Java**  
+- Graduando em Ciência da Computação pela **PUC-SP**, São Paulo, Brasil
+- Falo **Português**, **Inglês**, **Espanhol**, **Japonês** e **Francês**, e estou atualmente aprendendo **Italiano**  
 - 🇧🇷🇵🇹 Sou brasileiro e também português (dupla cidadania)  
-- 📫 Contato: **cpsenha@gmail.com**
+- Contato: **cpsenha@gmail.com**
 
 ---
 
