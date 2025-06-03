@@ -7,8 +7,8 @@
 
 ### 🇺🇸 EN
 
-- 👋 Hi! I'm João Pedro Ribeiro  
-- Software Engineer passionate about building high-impact experiences  
+- 👋 Hi! My name is João Pedro Ribeiro  
+- Software Engineer passionate about building high-impact experiences and simplifying complex tasks
 - Currently diving deeper into **Next.js**, **React Native**, and **Java**  
 - CS (Computer Science) undergraduate at **PUC-SP**, São Paulo, Brazil  
 - I speak **Portuguese**, **English**, **Spanish**, **Japanese**, and **French**, and I'm currently learning **Italian**  
@@ -17,8 +17,8 @@
 
 ### 🇧🇷 PT
 
-- 👋 Olá! Sou João Pedro Ribeiro  
-- Engenheiro de Software apaixonado por criar experiências de impacto  
+- 👋 Olá! Meu nome é João Pedro Ribeiro  
+- Engenheiro de Software apaixonado por criar experiências de impacto e simplificar tarefas complexas
 - Atualmente estudando **Next.js**, **React Native** e **Java**  
 - Graduando em Ciência da Computação pela **PUC-SP**, São Paulo, Brasil
 - Falo **Português**, **Inglês**, **Espanhol**, **Japonês** e **Francês**, e estou atualmente aprendendo **Italiano**  
