@@ -3,9 +3,7 @@
 
 ---
 
-## 🧠 Sobre mim / About Me
-
-### 🇺🇸 EN
+## 🧠 About Me
 
 - 👋 Hi! My name is João Pedro Ribeiro  
 - Software Engineer passionate about building high-impact experiences and simplifying complex tasks
@@ -14,16 +12,6 @@
 - I speak **Portuguese**, **English**, **Spanish**, **Japanese**, and **French**, and I'm currently learning **Italian**  
 - 🇧🇷🇵🇹 I'm Brazilian and also Portuguese (dual citizenship)  
 - Reach me at **cpsenha@gmail.com**
-
-### 🇧🇷 PT
-
-- 👋 Olá! Meu nome é João Pedro Ribeiro  
-- Engenheiro de Software apaixonado por criar experiências de impacto e simplificar tarefas complexas
-- Atualmente estudando **Next.js**, **React Native** e **Java**  
-- Graduando em Ciência da Computação pela **PUC-SP**, São Paulo, Brasil
-- Falo **Português**, **Inglês**, **Espanhol**, **Japonês** e **Francês**, e estou atualmente aprendendo **Italiano**  
-- 🇧🇷🇵🇹 Sou brasileiro e também português (dupla cidadania)  
-- Contato: **cpsenha@gmail.com**
 
 ---
 
@@ -61,7 +49,7 @@
 
 ---
 
-## 🌐 Contato & Redes / Contact & Networks
+## 🌐 Contact & Networks
 
 <p align="center" style="gap: 16px; display: flex; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
   <a href="mailto:cpsenha@gmail.com">
