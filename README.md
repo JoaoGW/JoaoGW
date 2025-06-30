@@ -7,9 +7,9 @@
 
 - 👋 Hi! My name is João Pedro Ribeiro  
 - Software Engineer passionate about building high-impact experiences and simplifying complex tasks
-- Currently diving deeper into **Next.js**, **React Native**, and **Java**  
+- Currently diving deeper into **Next.js**, **React Native**, **Docker** and **MongoDB**
 - CS (Computer Science) undergraduate at **PUC-SP**, São Paulo, Brazil  
-- I speak **Portuguese**, **English**, **Spanish**, **Japanese**, and **French**, and I'm currently learning **Italian**  
+- I speak **Portuguese**, **English**, **Spanish** and **French**, and I'm currently learning **Italian** and **Japanese**
 - 🇧🇷🇵🇹 I'm Brazilian and also Portuguese (dual citizenship)  
 - Reach me at **cpsenha@gmail.com**
 
