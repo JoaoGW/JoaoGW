@@ -1,5 +1,5 @@
 <h1 align="center">João Pedro Ribeiro</h1>
-<p align="center">Software Engineer | Full Stack Developer | Lifelong Learner</p>
+<p align="center">Software Engineer | Junior Full Stack Developer | Lifelong Learner</p>
 
 ---
 
@@ -8,10 +8,10 @@
 - 👋 Hi! My name is João Pedro Ribeiro  
 - Software Engineer passionate about building high-impact experiences and simplifying complex tasks
 - Currently diving deeper into **Next.js**, **React Native**, **Docker** and **MongoDB**
-- CS (Computer Science) undergraduate at **PUC-SP**, São Paulo, Brazil  
+- Bachelor's degree in Computer Science 
 - I speak **Portuguese**, **English**, **Spanish** and **French**, and I'm currently learning **Italian** and **Japanese**
 - 🇧🇷🇵🇹 I'm Brazilian and also Portuguese (dual citizenship)  
-- Reach me at **cpsenha@gmail.com**
+- Reach me at **profissional.jpribeiro@gmail.com**
 
 ---
 
@@ -52,7 +52,7 @@
 ## 🌐 Contact & Networks
 
 <p align="center" style="gap: 16px; display: flex; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
-  <a href="mailto:cpsenha@gmail.com">
+  <a href="mailto:profissional.jpribeiro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-do-carmo-ribeiro/" target="_blank">
