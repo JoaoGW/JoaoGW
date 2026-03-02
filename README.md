@@ -5,11 +5,26 @@
 
 ## 🧠 About Me
 
-- Bachelor's degree in Computer Science  
+- Bachelor's degree in *Computer Science* at *PUC-SP*
+- Postgraduate degree in *Software Architecture* at *FIAP*
 - Software Engineer focused on building scalable, maintainable and high-impact applications
 - Strong interest in **Full Stack Development**, with emphasis on modern Web and Mobile solutions
 - Currently deepening my knowledge in **Python**, **C#**, **.NET**, **Docker** and **MongoDB**
 - 🇧🇷🇵🇹 I'm Brazilian and also Portuguese (dual citizenship)
+
+---
+
+## 🚀 Portfolio Online
+
+<p align="center">
+  <a href="https://www.gwbrtechnologies.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-GWBR%20Technologies-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="GWBR Technologies Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  Personal website showcasing selected projects, technical expertise, and professional experience.
+</p>
 
 ---
 
@@ -42,6 +57,7 @@
 ### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
@@ -53,6 +69,9 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </p>
 
 ---
@@ -61,6 +80,7 @@
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/API%20REST-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 ---
@@ -78,7 +98,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
-
 ---
 
 <p align="center"><i>“The best way to predict the future is to invent it.” – Alan Kay</i></p>
