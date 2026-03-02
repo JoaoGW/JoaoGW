@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">João Pedro Ribeiro</h1>
-<p align="center">Software Engineer | Junior Full Stack Developer | Lifelong Learner</p>
+<p align="center">Software Engineer | Full Stack Developer | Lifelong Learner</p>
 
 ---
 
