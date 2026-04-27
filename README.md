@@ -11,6 +11,7 @@
 
 - Bachelor's degree in *Computer Science* at *PUC-SP*
 - Postgraduate degree in *Software Architecture* at *FIAP*
+- Master in Business Administration (MBA) in *Software Engineering* at *USP*
 - Software Engineer focused on building scalable, maintainable and high-impact applications
 - Strong interest in **Full Stack Development**, with emphasis on modern Web and Mobile solutions
 - Currently deepening my knowledge in **Python**, **C#**, **.NET**, **Docker** and **MongoDB**
