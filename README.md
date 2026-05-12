@@ -3,56 +3,55 @@
 </p>
 
 <h1 align="center">João Pedro Ribeiro</h1>
-<p align="center">Software Engineer | Full Stack Developer | Lifelong Learner</p>
+<p align="center">Engenheiro de Software | Desenvolvedor Full Stack | Lifelong Learner</p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Sobre Mim
 
-- Bachelor's degree in *Computer Science* at *PUC-SP*
-- Postgraduate degree in *Software Architecture* at *FIAP*
-- Master in Business Administration (MBA) in *Software Engineering* at *USP*
-- Software Engineer focused on building scalable, maintainable and high-impact applications
-- Strong interest in **Full Stack Development**, with emphasis on modern Web and Mobile solutions
-- Currently deepening my knowledge in **Docker**, **MongoDB**, **AWS** and **PostgreSQL**
-- 🇧🇷🇵🇹 I'm Brazilian and also Portuguese (dual citizenship)
+- Bacharel em *Ciência da Computação* pela *PUC-SP*
+- Pós-graduando em *Arquitetura de Software* pela *FIAP*
+- MBA em *Engenharia de Software* pela *USP*
+- Engenheiro de Software focado na construção de aplicações escaláveis, sustentáveis e de alto impacto
+- Grande interesse em **Desenvolvimento Full Stack**, com foco em soluções Web e Mobile modernas
+- Atualmente aprofundando conhecimentos em **Docker**, **MongoDB**, **AWS** e **PostgreSQL**
+- 🇧🇷🇵🇹 Brasileiro e também português (dupla cidadania)
 
 ---
 
-## 🚀 Portfolio Online
+## 🚀 Portfólio Online
 
 <p align="center">
   <a href="https://www.gwbrtechnologies.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-GWBR%20Technologies-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="João Pedro Ribeiro - Portfólio"/>
+    <img src="https://img.shields.io/badge/Visite%20Meu%20Portfólio-GWBR%20Technologies-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="João Pedro Ribeiro - Portfólio"/>
   </a>
 </p>
 
 <p align="center">
-  Personal website showcasing selected projects, technical expertise, and professional experience.
+  Website pessoal apresentando projetos selecionados, especialidades técnicas e toda minha experiência profissional.
 </p>
 
 ---
 
 ## ⚙️ Tech Stack
 
-### Languages
+### Linguagens de Programação
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ---
 
-### Frameworks & Libraries
+### Frameworks Front-End
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
@@ -60,7 +59,16 @@
 
 ---
 
-### Databases
+### Frameworks Back-End
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+</p>
+
+---
+
+### Bancos de Dados
 <p>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -69,18 +77,17 @@
 
 ---
 
-### Tools
+### Ferramentas
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </p>
 
 ---
 
-### Testing
+### Testes
 <p>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
@@ -88,7 +95,7 @@
 
 ---
 
-### Design & Architecture
+### Design & Arquitetura
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/API%20REST-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
@@ -97,7 +104,7 @@
 
 ---
 
-## 🌐 Contact & Networks
+## 🌐 Contato & Redes
 
 <p align="center" style="gap: 16px; display: flex; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
   <a href="mailto:profissional.jpribeiro@gmail.com">
