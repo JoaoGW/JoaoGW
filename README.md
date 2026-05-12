@@ -14,7 +14,7 @@
 - Master in Business Administration (MBA) in *Software Engineering* at *USP*
 - Software Engineer focused on building scalable, maintainable and high-impact applications
 - Strong interest in **Full Stack Development**, with emphasis on modern Web and Mobile solutions
-- Currently deepening my knowledge in **Python**, **C#**, **.NET**, **Docker** and **MongoDB**
+- Currently deepening my knowledge in **Docker**, **MongoDB**, **AWS** and **PostgreSQL**
 - 🇧🇷🇵🇹 I'm Brazilian and also Portuguese (dual citizenship)
 
 ---
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://www.gwbrtechnologies.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-GWBR%20Technologies-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="GWBR Technologies Portfolio"/>
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-GWBR%20Technologies-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="João Pedro Ribeiro - Portfólio"/>
   </a>
 </p>
 
